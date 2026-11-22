@@ -1,3 +1,3 @@
 # Lab 4
 
-Add the files and documents for Lab 4 in this folder.
+github repo of lab 4 : https://github.com/prabhakarkumar123/47_target-aim-trainer
